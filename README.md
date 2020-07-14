@@ -1,2 +1,2 @@
-# Curso-B-sico-de-Python-
+# Curso-Basico-de-Python-
 Curso Básico de Python en Platzi 
